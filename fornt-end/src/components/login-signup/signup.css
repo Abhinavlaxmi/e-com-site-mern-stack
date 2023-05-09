@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+    justify-content: center;
+
+} 
+
+.input {
+    display: grid;
+    width: 55%;
+    justify-content: end;
+
+}
+
+.login-input {
+    display: flow-root;
+    width: 100%;
+}

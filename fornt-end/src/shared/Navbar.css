@@ -1,0 +1,19 @@
+.navbar-ul {
+    background-color: skyblue;
+    margin-top: 0;
+    height: 50px;
+    padding: 10px;
+    text-align: start;
+
+}
+.navbar-ul li {
+    display: inline-block;
+    padding: 10px;
+    font-style: none;
+}
+
+.navbar-ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
